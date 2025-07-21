@@ -90,15 +90,6 @@ yay -S appimagelauncher
 
 ---
 
-## 📸 Capturas de pantalla (opcional)
-
-> Si deseas agregar imágenes del funcionamiento de la app, colócalas aquí usando sintaxis Markdown:
-```markdown
-![JearCast UI](./screenshots/jearcast_ui.png)
-```
-
----
-
 ## 🙏 Agradecimientos
 
 Gracias a toda la comunidad de **Linux** por su apoyo y sugerencias.  
